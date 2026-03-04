@@ -2,8 +2,6 @@
 
 **Official Folio for Digital Writing 2026**
 
-Tutors:
-
-Lucinda Strahan (*lucinda.strahn@rmit.edu.au*)
+Lucinda Strahan (*lucinda.strahan@rmit.edu.au*)
 
 Jenny Hedley (*jenny.hedley@rmit.edu.au*)
