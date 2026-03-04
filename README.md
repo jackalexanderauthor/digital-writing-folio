@@ -1,11 +1,11 @@
-# A Folio for Digital Writing by Jack Linke
+# a folio for digital writing by jack linke
 
-### Tutors 
+### tutors 
 
-Lucinda Strahan (*lucinda.strahan@rmit.edu.au*)
+lucinda strahan (*lucinda.strahan@rmit.edu.au*)
 
-Jenny Hedley (*jenny.hedley@rmit.edu.au*)
+jenny hedley (*jenny.hedley@rmit.edu.au*)
 
 ### Useful Links
 
-[Class Github](https://github.com/lucidogmum/digital-writing-2026/tree/main)
+[class repo](https://github.com/lucidogmum/digital-writing-2026/tree/main)
