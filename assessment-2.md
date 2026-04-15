@@ -6,3 +6,20 @@ my first idea is one that i've had for a while about a game-type branching story
 it's a simple concept but i'm imagining a lot of interactivity based on the order of conversations you have, what happens in those conversations, and possibly some minor character creation elements? each of your companions would obviously have very different personalities and you'd have very different histories with each one that would change your dynamic. i've linked some drafts of the whole flow in my github, but i'll have to go through and create individual maps for each conversation individually, including optional branches depending on backstory/previous choices.
 
 i haven't really considered including chance in the game -- it's not something i'm likely to put in considering how much i want to focus on player choice and character depth. maybe as a minigame within a conversation? flip a coin to see who has to do a truth or dare first e.g. 
+
+### planning for this week
+so for assessment 2 i need to:
+
+- give a 6-7 minute presentation in class
+> - include a interactivity architecture sketch
+> - show an early prototype of the work with min. 4 screens
+> - reflect on development so far
+> - speak to idea testing and iterations, including problems encountered and solving attempts
+
+- have my in-class documentation on my github
+> - submit my interactivity architecture maps
+
+by next week i want to have:
+1. clearly defined a setting, time period, and the basic identities of my three characters
+2. have a more detailed architecture of one of the conversations, including at least three 'endings' and one minigame
+3. have a first outline of the final scroll, including highlighted areas that can/will be changed according to player choices in the conversation
