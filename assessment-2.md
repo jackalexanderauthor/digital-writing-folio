@@ -7,7 +7,7 @@ it's a simple concept but i'm imagining a lot of interactivity based on the orde
 
 i haven't really considered including chance in the game -- it's not something i'm likely to put in considering how much i want to focus on player choice and character depth. maybe as a minigame within a conversation? flip a coin to see who has to do a truth or dare first e.g. 
 
-### planning for this week
+### planning for week 6
 so for assessment 2 i need to:
 
 - give a 6-7 minute presentation in class
@@ -19,7 +19,14 @@ so for assessment 2 i need to:
 - have my in-class documentation on my github
 > - submit my interactivity architecture maps
 
-by next week i want to have:
+by week 7 i want to have:
 1. clearly defined a setting, time period, and the basic identities of my three characters
 2. have a more detailed architecture of one of the conversations, including at least three 'endings' and one minigame
 3. have a first outline of the final scroll, including highlighted areas that can/will be changed according to player choices in the conversation
+
+### week 7
+did i achieve all that i set out to do? no. i locked down my setting and characters and started to script one of the first conversations, as well as layed out plans for the other two. i've come up with some initial "endings" each conversation can have as well as some interaction points, although they're not narratively important. More just reactive easter eggs. i haven't begun to think about the actual form of the final scroll just yet, but i have an idea for the deterministic structure. 
+
+i developed a basic stat/trait system for the character, based along 3 axes: socialness, attitudes towards school, and self-confidence. different characters will respond differently to different personality traits, which will in turn affect their attitude towards the player character. when selecting passages for the final scroll, i'll take into account two variables: the relationship level each character has with the player, and the actual narrative decisions the player made. for example, a player who encourages character 1 to pursue their passion of photography while having a good relationship with them will still get a different outcome to a player who makes the same encouragements while having a bad relationship. To keep within scope, each character will have no more than 3 endings.
+
+a lot of my work this week has been realising how much backend stuff i need to figure out before i can go about actually writing the work. i've realised a lot of my workflow has been backwards.
