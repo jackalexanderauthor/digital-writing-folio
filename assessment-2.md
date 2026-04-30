@@ -34,3 +34,20 @@ a lot of my work this week has been realising how much backend stuff i need to f
 > iteration discussion
 
 i've been fucking around a lot with different mechanisms behind the scenes. before i landed on the action/emotion system i'm working with now, i tried a lot of other ideas. i tried making a bunch of different variables that change different things but it ended up being wayyyyy too much to keep track of so i abandoned that idea. i also tried a more traditional rpg stat system using point allocation during character creation -- like you could assign scores to your charisma/insight/wisdom etc. i abandoned that bc it ended up being hard to integrate into the actual narrative world of the game. seeing a fallout style "you have a 20% chance of failing this check" kind of took out of the immersion of the world, and i didn't want to have to deal with random number generation or dice checks or whatever. i settled on my current solution as a sort of happy medium between the other options, taking what i liked from each. 
+
+### week 8
+as i've been locking in a lot more on the actual writing of the prose that makes up my piece, i've been running into one problem a lot, which is that a lot of the time there's overlap between my 6 stats (social/loner, confident/anxious, pro-school/anti-school). anxious and anti-school come up a lot together, but so do anti-school and loner -- but for different reasons. it's seriously slowing me down having to navigate the subtleties of each attitude 6 times over with every player choice, and i know that time lose is only going to compound and things get more complex.
+the simple solution is, i think, to get rid of some of the stats, and change how they're used. the pro- and anti-school attitudes are the most obvious to cut, because i also think they're the weakest in concept. whether someone likes or doesn't like school is usually a symptom of their experiences rather than an independent emotion, y'know? cutting those two leaves me in an awkward spot, though, because i have three characters and four core stats. My original framework worked along the line of "each character corresponds to these stats", and if i want to continue that idea (which i do), i need three stats.
+so which to cut? my remaining stats are:
+- social
+- loner
+- anxious
+- confident
+
+which is, looking at them, only kind of two stats. social/confident and anxious/loner were other examples of stats with significant writing overlap i was struggling with, so i don't think it makes sense to cut one of the four and leave it outweighed by the others. i could bring back 'school attitude' as a third stat and have it work more like a scale rather than a score, but that seems like cutting off a broken leg. i'm just replacing one problem (too much writing) with another (having to keep track of another stat system) and not actually fixing anything. 
+i originally positioned my stats along three axes, so i could just use those three axes as stats, going from 1-10 and starting each at 5, for example, but then i would have to be writing if/else statements that were checking for LOW scores as well as high ones, and again, it just doesn't feel as elegant. What i will do is bring back the school attitude stat and reframe it as an actual personality trait. So it'll go:
+- social/confident -> social? popular? cool?
+- anxious/loner -> anxious? depressed? introvert?
+- pro-school -> nerdy? teacher's pet?
+
+i don't want to set up an introvert/extrovert thing, and i don't necessarily want to tie "social" to "popular" so i think social, anxious, and nerdy are my stats. Delilah is social/anxious, casper is social/nerdy, and ferg is anxious/nerdy. Therefore, ferg dislikes social, delilah dislikes nerdy, and casper dislikes anxious
