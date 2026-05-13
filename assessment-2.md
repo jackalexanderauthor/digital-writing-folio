@@ -51,3 +51,10 @@ i originally positioned my stats along three axes, so i could just use those thr
 - pro-school -> nerdy? teacher's pet?
 
 i don't want to set up an introvert/extrovert thing, and i don't necessarily want to tie "social" to "popular" so i think social, anxious, and nerdy are my stats. Delilah is social/anxious, casper is social/nerdy, and ferg is anxious/nerdy. Therefore, ferg dislikes social, delilah dislikes nerdy, and casper dislikes anxious
+
+### week 10
+a lot of my issues recently with the piece have been around my inability to get any momentum going on the actual writing of my piece. i can't physically find a place to begin the conversation, and i'm struggling to cut out the small talk i feel is necessary to set the scene. i raised this with my classmates in our feedback session and got some different advice from my classmates:
+cris recommended that i write some of the meatier parts of the conversation first to overcome my problem with getting into the actual conversations
+ben recommended that i exaggerate the topics and lean into absurdism to take the onus of small talk away
+sophia had a similar piece of advice as ben, which was that she noticed in some conversation options there was a clearly most interesting option, and that could result in a lack of actual player choice (and wasted time for me writing out less interesting choices), so i should try and make every option very interesting and crazy
+elisabeth recommended i just jump straight to the interesting parts and skip the boring small talk altogether -- she advised i do a similar thing with the story as well, and that my 'tutorial' stuff i have written is a little 'wheel spinny' and could be cut down. It's definitely something to think about, but i've got a greater need to actually finish the piece before going back and editing it down.
