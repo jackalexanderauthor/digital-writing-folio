@@ -54,5 +54,7 @@ the narrative arc of the piece seems to have concluded from the past couple of e
 
 a lot of my key learning moments in this class came in the early weeks, when we were looking at other influential works of e-lit and learning how they worked. frequently, i would find myself surprised and inspired by the creativity of other writers in the space and eager to adapt their technology to my own. another big moment for me was the aarseth reading, which was an excellent deconstruction of the tropes and structures of e-lit and helped me to develop a very strong basis of knowledge on which i could create my own works. i wish there were more of those instructional-style academic texts which could help us to create a more structured understanding of the medium.
 working with my peers helped me to understand how to better adapt my writing practice to the digital format, and the actual work required to identify which parts of traditional prose translate to an digital medium and which need to be recontextualised and rewritten. A lot of my style is more prose-driven which can be clunky or intimidating to read on a screen, and so my peer feedback has been very helpful in letting me figure out which parts of my writing are essential and need to be maintained versus which can be cut without much loss. It's actually been a very helpful learning process for my writing in general and has encouraged me to be more economical across the board.
-Connections to scholarly contexts from course reading
-Reflection on how your work fits into the broader field of digital writing practice
+
+- Connections to scholarly contexts from course reading
+
+- Reflection on how your work fits into the broader field of digital writing practice
